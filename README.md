@@ -4,7 +4,7 @@ A beginner-friendly Python game created for learning and practice.
 
 ## Live Demo
 Try the game on Replit:  
-https://replit.com/@nairafouda68/PUT-YOUR-LINK-HERE
+https://replit.com/@nairafouda68/mshrwaay-lsbaa
 
 ## Features
 - Simple gameplay
